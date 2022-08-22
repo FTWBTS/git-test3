@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!GIThahahah");
         System.out.println("GITTestBranch");
         System.out.println("aaaaaaaa");
+        System.out.println("gitee仓库");
     }
 }
